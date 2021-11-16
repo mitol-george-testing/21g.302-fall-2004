@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "French"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ccb62de8-e0df-20b9-a8d4-b3caf73c2a3f",
+      "73e833a4-4a4b-38a2-d041-6cde4f614152",
+      "88bcbefe-2042-0579-b7c3-04a56225fa1f",
+      "88e93397-29de-31ac-e4ac-9e7d6cdfc9b3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "French II",
+  "course_description": "21G.302/352 is the second part of an introductory course to the French language and culture with an emphasis on the acquisition of vocabulary and grammatical concepts through active communication. The course is conducted entirely in French and students interact in French with their classmates from the very beginning. They also receive exposure to the language via a variety of authentic sources such as the Internet, audio, video and printed materials which help them develop cultural awareness as well as linguistic proficiency. There is a coordinated language lab program.\n\nThis course is taught in rotation by the following instructors: Laura Ceia-Minjares, Cathy Culot, Gilberte Furstenberg, and Johann Sadock.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "21G.352",
+  "primary_course_number": "21G.302",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
